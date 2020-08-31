@@ -30,7 +30,7 @@ The search results present different properties, showing the parcel number, addr
 
 # Step 3
 
-All of the information shown in blue boxes is copied and stored in an Excel file.  The information copied includes property prices, address, house and lot sizes, and other pertinent information.  
+All of the information shown in blue boxes is copied and stored in an Excel file.  The information copied includes property prices, address, house and lot sizes, and other pertinent information.  The New Search link shown in the red box is then clicked, which brings the browser back to the home page shown in step 1, allowing the program to continue collecting information.
 
 ![image 4](/images/image4.jpeg)
 
