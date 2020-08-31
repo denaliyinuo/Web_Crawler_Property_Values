@@ -16,6 +16,7 @@ Below is an image of the home page to search for any property in Anchorage.  The
 
 ![image 1](/images/image1.jpeg)
 
+# Web Scraper Steps
 # Step 1
 
 The web scraper enters the parcel number, as shown in the red box.  In order to start from the lowest numbered property, it is recommended to input 000-00-000-000.  The search page results will show the lowest numbered property.  After the parcel number has been entered, the program will press the search button.
