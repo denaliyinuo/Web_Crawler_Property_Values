@@ -11,3 +11,7 @@ The purpose of this web scraper is to collect residential property information f
 [Anchorage Municipality Public Inquiry Website (site to be web scrapped)](https://www.muni.org/pw/public.html)
 
 ![image 1](/images/image1.jpeg)
+![image 2](/images/image2.jpeg)
+![image 3](/images/image3.jpeg)
+![image 4](/images/image4.jpeg)
+
