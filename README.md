@@ -15,13 +15,16 @@ The purpose of this web scraper is to collect residential property information f
 There are three main files included in the [repository](https://github.com/denaliyinuo/Web_Scraper_Property_Values).
 
 - anchorage_property_value_web_scraper.py
-This is the Python file that runs the program.  The program only needs this file and the MoA_Property_Information_empty.xlsx file to run properly.
+
+  This is the Python file that runs the program.  The program only needs this file and the MoA_Property_Information_empty.xlsx file to run properly.
 
 - MoA_Property_Information_empty.xlsx
-When the program runs, the program is currently written to copy and save the information into this excel file.
+
+  When the program runs, the program is currently written to copy and save the information into this excel file.
 
 - MoA_Property_Information.xlsx
-This excel file is all the information I web scraped from the website, which includes over 30,000 data points.
+
+  This excel file is all the information I web scraped from the website, which includes over 30,000 data points.
 
 # Anchorage Municipality Public Inquiry Home Page
 
