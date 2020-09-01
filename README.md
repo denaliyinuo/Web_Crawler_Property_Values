@@ -6,6 +6,16 @@ The purpose of this web scraper is to collect residential property information f
 
 # Demo
 
+Below is a demo video of the web scraper and a brief explanation.
+
+1) Opened MoA_Property_Information_empty.xlsx to show all cells are empty.
+
+2) Ran the web scraper to collect data from two different houses.
+
+3) Opened MoA_Property_Information_empty.xlsx again to show that information from the two houses were collected.
+
+4) Opened MoA_Property_Information.xlsx to show the data collected for over 30,000 houses after running the web scraper.
+
 ![demo](/images/Property_Web_Scraper_Demo.gif)
 
 # Links
