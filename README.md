@@ -4,6 +4,10 @@
 
 The purpose of this web scraper is to collect residential property information from the Municipality of Anchorage website.   The web scraper was written in Python and uses the libraries Selenium for web scrapping and Openpyxl for collecting the data in Excel.
 
+![image 5](/images/image5.png)
+
+![image 6](/images/image6.png)
+
 # Demo
 
 Below is a demo video of the web scraper and a brief explanation.
