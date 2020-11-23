@@ -4,9 +4,17 @@
 
 The purpose of this web scraper is to collect residential property information from the Municipality of Anchorage website.   The web scraper was written in Python and uses the libraries Selenium for web scrapping and Openpyxl for collecting the data in Excel.
 
+# Results
+
+The chart below shows the range of prices for a single-family home in Anchorage for each region.
+
 ![image 5](/images/image5.png)
 
+Using multivariate regression, the chart below shows the cost of an average single-family home in Anchorage.  Region 76 equates to Girdwood, which has the highest prices, and the region with the lowest single-family homes is East Anchorage.
+
 ![image 6](/images/image6.png)
+
+# Web Scraper
 
 # Demo
 
