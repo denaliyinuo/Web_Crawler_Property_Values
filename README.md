@@ -1,4 +1,4 @@
-# Anchorage Single-Family Home Web Scraper and Price Analysis
+# Anchorage Single Family Home Web Scraper and Price Analysis
 
 # Overview
 
